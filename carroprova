@@ -1,0 +1,32 @@
+
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+
+	int distancia;
+
+	int minutos;
+
+	printf("Digite a distancia em KM: \n");
+
+	scanf("%d", &distancia);
+
+	
+
+	minutos = distancia * 2;
+
+	
+
+	
+
+	printf("%d minutos\n", minutos );
+
+	
+
+	
+
+	
+
+	return 0;
+
+}
